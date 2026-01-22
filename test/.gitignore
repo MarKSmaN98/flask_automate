@@ -1,5 +1,0 @@
-__pycache__/
-.env
-.venv/
-client/node_modules/
-server/__pycache__/

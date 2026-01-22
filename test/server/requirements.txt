@@ -1,7 +1,0 @@
-flask
-flask-restful
-sqlalchemy
-flask-sqlalchemy
-flask-cors
-flask-migrate
-sqlalchemy-serializer
